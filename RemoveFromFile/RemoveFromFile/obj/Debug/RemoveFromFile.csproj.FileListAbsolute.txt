@@ -1,0 +1,6 @@
+c:\users\rafael machado\documents\visual studio 2015\Projects\RemoveFromFile\RemoveFromFile\bin\Debug\RemoveFromFile.exe.config
+c:\users\rafael machado\documents\visual studio 2015\Projects\RemoveFromFile\RemoveFromFile\obj\Debug\RemoveFromFile.csprojResolveAssemblyReference.cache
+c:\users\rafael machado\documents\visual studio 2015\Projects\RemoveFromFile\RemoveFromFile\bin\Debug\RemoveFromFile.exe
+c:\users\rafael machado\documents\visual studio 2015\Projects\RemoveFromFile\RemoveFromFile\bin\Debug\RemoveFromFile.pdb
+c:\users\rafael machado\documents\visual studio 2015\Projects\RemoveFromFile\RemoveFromFile\obj\Debug\RemoveFromFile.exe
+c:\users\rafael machado\documents\visual studio 2015\Projects\RemoveFromFile\RemoveFromFile\obj\Debug\RemoveFromFile.pdb

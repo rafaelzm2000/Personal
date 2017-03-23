@@ -1,0 +1,6 @@
+C:\Users\Rafael Machado\Documents\Visual Studio 2015\Projects\RemoveFromFile\RemoveFromFile\bin\Debug\RemoveFromFile.exe.config
+C:\Users\Rafael Machado\Documents\Visual Studio 2015\Projects\RemoveFromFile\RemoveFromFile\bin\Debug\RemoveFromFile.exe
+C:\Users\Rafael Machado\Documents\Visual Studio 2015\Projects\RemoveFromFile\RemoveFromFile\bin\Debug\RemoveFromFile.pdb
+C:\Users\Rafael Machado\Documents\Visual Studio 2015\Projects\RemoveFromFile\RemoveFromFile\obj\Debug\MerraCreateBatch.csprojResolveAssemblyReference.cache
+C:\Users\Rafael Machado\Documents\Visual Studio 2015\Projects\RemoveFromFile\RemoveFromFile\obj\Debug\RemoveFromFile.exe
+C:\Users\Rafael Machado\Documents\Visual Studio 2015\Projects\RemoveFromFile\RemoveFromFile\obj\Debug\RemoveFromFile.pdb
